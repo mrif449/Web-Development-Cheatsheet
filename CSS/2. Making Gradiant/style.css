@@ -1,0 +1,11 @@
+.linear-gradiant{
+    height: 500px;
+    width: 100%;
+    background-image: linear-gradient(to right, #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff);
+}
+
+.radial-gradiant{
+    height: 500px;
+    width: 100%;
+    background-image: radial-gradient(circle, #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff);
+}
